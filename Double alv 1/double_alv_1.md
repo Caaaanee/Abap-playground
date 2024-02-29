@@ -1,2 +1,2 @@
-# Doking / Splitter 활용
+# Docking / Splitter 활용
 
