@@ -9,3 +9,5 @@ LOAD-OF-PROGRAM.
   "Set layout & ALV SORT
   PERFORM set_layo USING co_fix 'A' CHANGING gs_layo.
   PERFORM set_sort USING '1' 'BOOKID' co_fix.
+
+perform test.
